@@ -1,4 +1,6 @@
 # Python-class8-assignment
+Create a unique application by applying OOP principles. It could be anything from a CLI app to an API or anything in between.
+challange one dollar 💸 
 
 
 # 🏥 Hospital Management System
